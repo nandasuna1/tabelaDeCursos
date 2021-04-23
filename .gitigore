@@ -1,2 +1,2 @@
-tabelaDeCurso/venv
-tabelaDeCurso/.idea
+venv/*
+.idea/*
